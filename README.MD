@@ -10,14 +10,17 @@
   
 </p>
 
-<!-- <h1 align="center">
-    <img style="border-radius: 24px;" src="assets/screens-01.png" alt="Screens" >
-</h1> -->
-<h4 align="center" style="margin: 48px 0;">Você pode visualizar o projeto do <a href="https://www.figma.com/file/xjRTPKGWMrKQQU2EBNpJSu/CBOL%C3%83O---Redesign?node-id=0%3A1" style="color: #9F69C3; font-weight:bold" target="_blank">Figma aqui</a></h4>
-
 ## :computer: Quick Overview
 
 ---
+
+![image info](.github/assets/menu_figma.png)
+
+Expanda o menu lateral do Figma para pode acessar as outras páginas do projeto.
+
+<h4 align="center" style="margin: 48px 0;">Você pode visualizar o projeto do <a href="https://www.figma.com/file/xjRTPKGWMrKQQU2EBNpJSu/CBOL%C3%83O---Redesign?node-id=0%3A1" style="color: #9F69C3; font-weight:bold" target="_blank">Figma aqui</a></h4>
+
+<br/>
 
 #### :computer: Versão Web
 
