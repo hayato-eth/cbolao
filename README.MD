@@ -5,18 +5,18 @@
 <h4 align="center" style="margin-bottom: 48px;">A redesign of <a href="https://cbolao.gg/" style="color: #9F69C3;" target="_blank">CBOLÃO.gg</a> made by  <a href="https://www.dribbble.com/viniciusrocha/" style="color: #9F69C3;" target="_blank">@viniciusrocha</a></h4>
 
 <p align="center">
-<a href="#rocket-languages-and-tools">Quick Overview</a> •
-<a href="#rocket-languages-and-tools">Screenshots</a>
+<a href="#book-quick-overview">Quick Overview</a> •
+<a href="#framed_picture-screenshots">Screenshots</a>
   
 </p>
 
-## :computer: Quick Overview
+## :book: Quick Overview
 
 ---
 
 ![image info](.github/assets/menu_figma.png)
 
-Expanda o menu lateral do Figma para pode acessar as outras páginas do projeto.
+<center>Expanda o menu lateral do Figma para pode acessar as outras páginas do projeto.</center>
 
 <h4 align="center" style="margin: 48px 0;">Você pode visualizar o projeto do <a href="https://www.figma.com/file/xjRTPKGWMrKQQU2EBNpJSu/CBOL%C3%83O---Redesign?node-id=0%3A1" style="color: #9F69C3; font-weight:bold" target="_blank">Figma aqui</a></h4>
 
@@ -30,7 +30,7 @@ Expanda o menu lateral do Figma para pode acessar as outras páginas do projeto.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="900" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxjRTPKGWMrKQQU2EBNpJSu%2FCBOL%25C3%2583O---Redesign%3Fpage-id%3D1%253A36%26node-id%3D50%253A27393%26viewport%3D296%252C48%252C0.19%26scaling%3Dscale-down%26starting-point-node-id%3D50%253A27584" allowfullscreen></iframe>
 
-## :computer: Screenshots
+## :framed_picture: Screenshots
 
 ---
 
